@@ -1,3 +1,25 @@
+
+# Hello It's Zumry here,
+
+I have just forked this project from google because as an independant software developer we all are not sticked to one programming language. 
+
+# Why you should use good style guide ?
+
+Simple Answer is : Your project should scalable and maintainable. 
+
+
+
+
+if you are an iOS developer please check [iOS Specific guidline for Object-c](https://developer.apple.com/library/content/documentation/Cocoa/Conceptual/CodingGuidelines/CodingGuidelines.html) as well. 
+
+<br /><br />
+
+The reason i forked this project because, Everytime when i want to check the style guidelines, i can come and check my GIT Repo.. (It's like my own book mark and your's too :) )
+
+<br />
+
+
+
 Google Style Guides
 ===================
 
